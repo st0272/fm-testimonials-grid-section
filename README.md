@@ -32,8 +32,8 @@ Mobile
 
 ### Links
 
-- Solution URL: [Testimonials grid section solution](https://github.com/st0272/Testimonials grid section solution)
-- Live Site URL: [Testimonials grid section solution](https://st0272.github.io/Testimonials grid section solution/)
+- Solution URL: [Testimonials grid section solution](https://github.com/st0272/fm-testimonials-grid-section)
+- Live Site URL: [Testimonials grid section solution](https://st0272.github.io/fm-testimonials-grid-section/)
 
 ## My process
 
