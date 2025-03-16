@@ -24,10 +24,10 @@ Users should be able to:
 
 ### Screenshot
 
-Desktop
+Desktop  
 ![desktop](./design/desktop.png)
 
-Mobile
+Mobile  
 ![mobile](./design/mobile.png)
 
 ### Links
@@ -47,6 +47,6 @@ Mobile
 
 ## Author
 
-- Website - [Suzunatsu Website](https://www.suzunatsu.com)
+- Website - [Suzunatsu Web](https://www.suzunatsu.com)
 - Frontend Mentor - [@st0272](https://www.frontendmentor.io/profile/st0272)
 - Twitter - [@suzunatsu_](https://www.twitter.com/suzunatsu_)
